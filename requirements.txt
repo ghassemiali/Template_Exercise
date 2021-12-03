@@ -1,0 +1,5 @@
+asgiref
+pytz
+sqlparse
+Django>3.2,<3.3
+requests
